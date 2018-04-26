@@ -1,0 +1,42 @@
+#wrapper{
+    background-color: lightgray;
+}
+#wrapper h1{
+    text-align: center;
+}
+
+.left_section {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.right_section{
+    display: inline-block;
+    margin-left: 20px;
+}
+.left_section p {
+    display: inline-block;
+    margin-left: 10px;
+    vertical-align: top;
+    margin-top: 0px;
+}
+.left_section input{
+    display: inline-block;
+
+}
+
+.more_info{
+    border: 5px solid black;
+    width: 400px;
+    height: 100px;
+    margin: 10px 0px 0px 20px;
+    background-color: yellowgreen; 
+}
+.more_info p{
+    margin-left: 10px;
+}
+
+#inp_butt{
+    margin: 20px 0px 20px 150px;
+
+}
